@@ -1,7 +1,7 @@
 # 🛒 POF (Planty of Food) - Business Intelligence & Analisi Vendite E-Commerce
 
 ## 📌 Panoramica del Progetto
-Questo repository contiene l'analisi delle vendite e dei comportamenti d'acquisto per **POF (Planty of Food)**, un e-commerce focalizzato sulla distribuzione sostenibile di prodotti alimentari *plant-based* biologici, etici e a basso impatto ambientale in Italia[cite: 1].
+Questo repository contiene l'analisi delle vendite e dei comportamenti d'acquisto per **POF (Planty of Food)**, un e-commerce focalizzato sulla distribuzione sostenibile di prodotti alimentari *plant-based* biologici, etici e a basso impatto ambientale in Italia.
 
 L'obiettivo dell'elaborato Excel è trasformare i dati grezzi delle transazioni aziendali in **KPI azionabili** e **Business Intelligence**, identificando i reparti più redditizi, i picchi stagionali di vendita e la distribuzione geografica e per scontrino medio.
 
